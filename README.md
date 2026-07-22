@@ -6,6 +6,7 @@ Apache Seata™ 是一款开源的分布式事务解决方案，致力于在微�
 其他改动点：
 - server 模块的 application.yml 加上 nacos config/registry 配置
 - server 模块的 pom build 简化为 spring-boot-maven-plugin
+- 升级 gRPC 版本
 
 local install:
 ```shell
