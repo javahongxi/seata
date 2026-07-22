@@ -101,6 +101,7 @@
         <!-- Compiler -->
         <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
         <protobuf-maven-plugin.version>0.6.1</protobuf-maven-plugin.version>
+        <protoc-gen-grpc-java.version>1.80.0</protoc-gen-grpc-java.version>
         <kotlin-maven-plugin.version>2.2.20</kotlin-maven-plugin.version>
         <!-- Check -->
         <maven-javadoc-plugin.version>3.0.0</maven-javadoc-plugin.version>
@@ -130,7 +131,7 @@
         <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
         <!-- Other -->
         <maven-antrun-plugin.version>1.8</maven-antrun-plugin.version>
-        <os-maven-plugin.version>1.5.0.Final</os-maven-plugin.version>
+        <os-maven-plugin.version>1.7.1</os-maven-plugin.version>
 
         <!-- Default values of the Maven plugins -->
         <checkstyle.skip>true</checkstyle.skip>
